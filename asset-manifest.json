@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactstore/static/css/main.92b2bd58.chunk.css",
+    "main.js": "/reactstore/static/js/main.1f5991c3.chunk.js",
+    "main.js.map": "/reactstore/static/js/main.1f5991c3.chunk.js.map",
+    "runtime-main.js": "/reactstore/static/js/runtime-main.39e87aed.js",
+    "runtime-main.js.map": "/reactstore/static/js/runtime-main.39e87aed.js.map",
+    "static/js/2.0bb29c1b.chunk.js": "/reactstore/static/js/2.0bb29c1b.chunk.js",
+    "static/js/2.0bb29c1b.chunk.js.map": "/reactstore/static/js/2.0bb29c1b.chunk.js.map",
+    "index.html": "/reactstore/index.html",
+    "precache-manifest.b75e0e2ae6df460b4d157a2670b73add.js": "/reactstore/precache-manifest.b75e0e2ae6df460b4d157a2670b73add.js",
+    "service-worker.js": "/reactstore/service-worker.js",
+    "static/css/main.92b2bd58.chunk.css.map": "/reactstore/static/css/main.92b2bd58.chunk.css.map",
+    "static/js/2.0bb29c1b.chunk.js.LICENSE.txt": "/reactstore/static/js/2.0bb29c1b.chunk.js.LICENSE.txt",
+    "static/media/loading.gif": "/reactstore/static/media/loading.8894b7d3.gif",
+    "static/media/logo.svg": "/reactstore/static/media/logo.7ac3ba3a.svg",
+    "static/media/index.css": "/reactstore/static/media/mainBcg.016d4fcc.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39e87aed.js",
+    "static/js/2.0bb29c1b.chunk.js",
+    "static/css/main.92b2bd58.chunk.css",
+    "static/js/main.1f5991c3.chunk.js"
+  ]
+}
